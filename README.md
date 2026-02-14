@@ -5,20 +5,10 @@
 #### Herramientas para este proyecto
 
 ```bash
-#Crear el package.json inicial
-> npm init -y
+#Instalar dependencias
+> npm i
 ```
 
-```bash
-#Framework utilizado para implementar la api
-> npm i express
-```
-
-
-```bash
-#Libreria para conectarse a mysql
-> npm i --save mysql2
-```
 ***
 #### Levantar api
 
